@@ -1,4 +1,27 @@
-logger.debug("-".padEnd(25,'-'))
+/*
+	We'll go over different properties and methods we can use within the string class.
+	Properties:
+		- length
+	Instance Methods:
+		- charAt()
+		- concat()
+		- startsWith()
+		- endsWith()
+		- includes()
+		- indexOf()
+		- lastIndexOf()
+		- match()
+		- slice()
+		- padEnd()
+		- padStart()
+		- split()
+		- substring()
+		- toUpperCase()
+		- toLowerCase()
+		- trimStart()
+		- trimEnd()
+		- trim()
+*/
 
 var a = "This is a string"
 var b = 'This is a string too!'
