@@ -1,0 +1,8 @@
+MSH|^~\&|LAB|HOSPITAL|EHR|HOSPITAL|20240701120000||ORU^R01|MSG00045|P|2.3
+PID|1||135769^^^HOSPITAL^MR||Mouse^Mickey^M||19281118|M|||123 Main St^^Anytown^TN^37601||(555)555-1234
+OBR|1||LAB987654|CBC^Complete Blood Count
+OBX|1|NM|WBC^White Blood Cell Count||7.2|10*3/uL|4.0-11.0|N
+OBX|2|NM|RBC^Red Blood Cell Count||4.8|10*6/uL|4.2-5.4|N
+OBX|3|NM|HGB^Hemoglobin||14.1|g/dL|13.5-17.5|N
+OBX|4|NM|HCT^Hematocrit||42.0|%|41.0-53.0|N
+OBX|5|NM|PLT^Platelet Count||450|10*3/uL|150-400|H
